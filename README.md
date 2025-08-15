@@ -12,9 +12,8 @@
 <h3 align="center">🚀 Aspiring Data Scientist | Building things in AI/ML | Problem Solver</h3>
 
 ## 💡 About Me  
-- 🎓 **Third-year BE Student** passionate about **Data Science, AI/ML, and DSA**  
-- 💻 Solved **80+ problems** on [LeetCode](https://leetcode.com/u/741mdzh4s3/) with a growing accuracy rate  
-- 📈 Currently exploring **Machine Learning**, **Data Structures & Algorithms**, and **Full-Stack Development**  
+- 🎓 **Third-year BE Student** passionate about **Data Science, AI/ML, and DSA**   
+- 📈 Currently exploring **Machine Learning** & **Data Structures & Algorithms**  
 - 🎯 Goal: Build impactful AI-driven applications
 - 📍 From Gujarat, India  
 
