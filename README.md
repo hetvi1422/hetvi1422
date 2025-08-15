@@ -41,18 +41,18 @@
 
 ## 📊 GitHub Stats & Activity
 
-
 <!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=om-bhinsara&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hetvi1422&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <!-- Activity Graph -->
-[![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=om-bhinsara&theme=tokyo-night)](https://github.com/om-bhinsara)
+[![Hetvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hetvi1422&theme=tokyo-night)](https://github.com/hetvi1422)
 
 <!-- Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=om-bhinsara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hetvi1422&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=om-bhinsara&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetvi1422&layout=compact&theme=tokyonight)
+
 
 ---
 
