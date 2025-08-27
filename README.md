@@ -41,24 +41,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
----
 
-## 📊 GitHub Stats & Activity
-
-<!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=hetvi1422&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<!-- Activity Graph -->
-[![Hetvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hetvi1422&theme=tokyo-night)](https://github.com/hetvi1422)
-
-<!-- Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=hetvi1422&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetvi1422&layout=compact&theme=tokyonight)
-
-
----
 
 ## 🌱 Current Focus  
 - Learning **Machine Learning algorithms** and building **projects** with Python   
